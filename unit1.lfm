@@ -32,4 +32,12 @@ object Form1: TForm1
     Caption = 'Button3'
     TabOrder = 2
   end
+  object ToggleBox1: TToggleBox
+    Left = 223
+    Height = 23
+    Top = 119
+    Width = 90
+    Caption = 'ToggleBox1'
+    TabOrder = 3
+  end
 end
