@@ -15,6 +15,7 @@ type
     Button1: TButton;
     Button2: TButton;
     Button3: TButton;
+    ToggleBox1: TToggleBox;
     procedure Button2Click(Sender: TObject);
   private
     { private declarations }
